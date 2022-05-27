@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adir.
 - 👀 I’m interested in Data Science and ML specifically.
-- 🌱 I’m currently on the middle of my Thesis as part of a Msc degree in Information system at the University of Haifa.
+- 🌱 I’m currently on the middle of my Thesis as part of a MSc degree in Information system at the University of Haifa.
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 You can reach out and talk to me: 
     - email 
